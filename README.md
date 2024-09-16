@@ -1,6 +1,6 @@
-[![Build Status](https://travis-ci.org/valyala/bytebufferpool.svg)](https://travis-ci.org/valyala/bytebufferpool)
-[![GoDoc](https://godoc.org/github.com/valyala/bytebufferpool?status.svg)](http://godoc.org/github.com/valyala/bytebufferpool)
-[![Go Report](http://goreportcard.com/badge/valyala/bytebufferpool)](http://goreportcard.com/report/valyala/bytebufferpool)
+[![Build Status](https://travis-ci.org/profe-ajedrez/bytebufferpool.svg)](https://travis-ci.org/profe-ajedrez/bytebufferpool)
+[![GoDoc](https://godoc.org/github.com/profe-ajedrez/bytebufferpool?status.svg)](http://godoc.org/github.com/profe-ajedrez/bytebufferpool)
+[![Go Report](http://goreportcard.com/badge/profe-ajedrez/bytebufferpool)](http://goreportcard.com/report/profe-ajedrez/bytebufferpool)
 
 # bytebufferpool
 
@@ -17,5 +17,5 @@ You can find results [here](https://omgnull.github.io/go-benchmark/buffer/).
 
 # bytebufferpool users
 
-* [fasthttp](https://github.com/valyala/fasthttp)
-* [quicktemplate](https://github.com/valyala/quicktemplate)
+* [fasthttp](https://github.com/profe-ajedrez/fasthttp)
+* [quicktemplate](https://github.com/profe-ajedrez/quicktemplate)

@@ -3,7 +3,7 @@ package bytebufferpool_test
 import (
 	"fmt"
 
-	"github.com/valyala/bytebufferpool"
+	"github.com/profe-ajedrez/bytebufferpool"
 )
 
 func ExampleByteBuffer() {

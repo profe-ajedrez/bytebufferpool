@@ -1,3 +1,3 @@
-module github.com/valyala/bytebufferpool
+module github.com/profe-ajedrez/bytebufferpool
 
-go 1.12
+go 1.23
