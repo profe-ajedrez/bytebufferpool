@@ -87,6 +87,13 @@ func (b *ByteBuffer) WriteByte(c byte) error {
 	return nil
 }
 
+func (b *ByteBuffer) Expand(n int) error {
+	if cap(b.B)-len(b.B) < n {
+		b.B = append(make([]byte, 0, len(b.B)+n), b.B...)
+	}
+	return nil
+}
+
 // WriteString appends s to ByteBuffer.B.
 func (b *ByteBuffer) WriteString(s string) (int, error) {
 	b.B = append(b.B, s...)
